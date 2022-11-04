@@ -2,4 +2,4 @@
 
 Обнуление стилей при помощи normalize.css Использованы технолоогии Flex и Grid выравнивания. Файловая структуора по БЭМ (Nested) Адаптация под разные разрешения экрата и так же мобилая версия Написан небольшой скрыпт на языке JavaScript
 
-github.com/akulaega/mesto/index.html
+github.com/akulaega/mesto/index.html     

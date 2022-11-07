@@ -1,0 +1,8 @@
+.header__logo {
+  position: absolute;
+  width: 182px;
+  height: 51px;
+  top: 70px;
+  left: 400px;
+  z-index: 1;
+}
